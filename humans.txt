@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Justin Chen justin.uob@gmail.com
 
 # THANKS
 
